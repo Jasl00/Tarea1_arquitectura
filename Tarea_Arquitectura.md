@@ -2,8 +2,8 @@
 
 ## Integrantes:
 
- - Jorman Solórzano
- - Jonathan Jaramillo 
+ - Jorman Solórzano [Github](https://github.com/Jasl00)
+ - Jonathan Jaramillo [Github](https://github.com/jonathan-092)
  
  # Construcion de computador para modelado y animacion 3D
  
