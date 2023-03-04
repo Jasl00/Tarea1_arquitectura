@@ -16,7 +16,7 @@
  
  ## Propuesta 
  
- En este caso se procede a armar un equipo que sea capaz de trabajar de manera optima con animacion y modelado en 3d con el software blender.
+ En este caso se procede a armar un equipo que sea capaz de trabajar de manera optima con animacion y modelado en 3d con el software blender, para la realizacion de imagenes 3d, en base a modelos 2d, con modelacion de 3d solidos para la creacion de un nuevo tipo de herramientas para las reparaciones del hogar
  
  -Blender:
  
