@@ -30,20 +30,20 @@
  
  ## cpu:
  
- Intel Core i9-13900K 3 GHz 24-Core Processor [Cpu](https://www.newegg.com/amd-ryzen-threadripper-3960x/p/N82E16819113619?Description=amd%20threadripper%203960x&cm_re=amd_threadripper%203960x-_-19-113-619-_-Product)
- precio:$1486.80
+ Intel Core i9-13900K 3 GHz 24-Core Processor [Cpu](https://www.amazon.com/dp/B0BCF54SR1?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
+ precio:$569.99
  
  ## Cpu cooler:
-  IDCOOLING AURAFLOW X 74.5 CFM Liquid CPU Cooler [Cpu cooler](https://www.amazon.com/dp/B084GKZVBX?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
-  precio:$69.98
+  Corsair iCUE H100i RGB ELITE 65.57 CFM Liquid CPU Cooler [Cpu cooler](https://pcpartpicker.com/mr/newegg/scstt6)
+  precio:$119.99
   
  ##  Motherboard:
-  Asus Prime TRX40-Pro ATX sTRX4 Motherboard [motherboard](https://www.newegg.com/asus-prime-trx40-pro-s/p/N82E16813119260)
-  precio:$483.49
+  MSI PRO B760-P WIFI DDR4 ATX LGA1700 Motherboard [motherboard](https://www.amazon.com/dp/B0BRQSWSFQ?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
+  precio:$160.00
   
  ##  Memory ram:
-  un kit de 2x32GB [ram](https://www.newegg.com/mushkin-enhanced-64gb-288-pin-ddr4-sdram/p/N82E16820226916?Item=N82E16820226916&nm_mc=AFC-RAN-COM&cm_mmc=afc-ran-com-_-PCPartPicker&utm_medium=affiliate&utm_campaign=afc-ran-com-_-PCPartPicker&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-qqvX_oLb.EJm7KbG93YdVA)
-  precio:$129.99
+  G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory [ram](https://www.amazon.com/dp/B07Z45XB3G?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
+  precio:$86.99
     
  ##  Storage:
   Ssd de 2 TB [ssd](https://www.amazon.com/dp/B08GLX7TNT?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
@@ -53,12 +53,16 @@
    precio:92.99
     
  ##  Video card:
-   Asus DUAL OC GeForce RTX 3060 Ti 8 GB Video Card [gpu](https://www.amazon.com/dp/B0BRYHR5JY?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
-   precio:$469.99
+   MSI GeForce RTX 3080 VENTUS 3X 10G OC GeForce RTX 3080 10GB 10 GB Video Card [gpu](https://www.amazon.com/dp/B08HR5SXPS?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
+   precio:$1050.00
   
  ##  Power supply:
    Corsair RM850e 850 W 80+ Gold Certified Fully Modular ATX Power Supply [ps](https://www.newegg.com/corsair-rme-series-rm850e-850-w/p/N82E16817139301?Item=N82E16817139301&nm_mc=AFC-RAN-COM&cm_mmc=afc-ran-com-_-PCPartPicker&utm_medium=affiliate&utm_campaign=afc-ran-com-_-PCPartPicker&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-rPlq4mQiUjzxxEmTSE4SwQ)
    precio:$114.99
+
+ ## Pasta termica:
+  ARCTIC MX-4 20 g Thermal Paste [Pasta](https://www.amazon.com/dp/B07LDJY4X2?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
+  precio:$11.95
   
  ##  Case:
  Aerocool Bolt ATX Mid Tower Case [case](https://www.amazon.com/dp/B07SW2285W?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
@@ -67,19 +71,19 @@
  ## Por que de la seleccion de componentes:
  
  ## Cpu: 
-Se escogio el procesador  AMD Threadripper 3960X con 24 nucleos por su turbo de 4,5 Ghz cuando se usa un solo núcleo, por que el blender en este caso de modelado 3d usa el poder de un solo núcleo para renderizar las proyectos agilizando el tiempo de espera para terminar el proyecto, tambien por que cuenta con turbo de 4Ghz en todos los nucleos para los programas que usen el poder de varios núcleos, en el caso de pasar a ver la imagen o proyecto ya renderizado no se quede atras en cuanto a tiempo de trabajo y para la carga de mas imagenes en caso que sean mas en un solo, proyecto.
+Se escogio el procesador  intel core i9-13900k con 24 nucleos por su turbo de 5,80 Ghz cuando se usa un solo núcleo, por que el blender en este caso de modelado 3d usa el poder de un solo núcleo para renderizar las proyectos agilizando el tiempo de espera para terminar el proyecto, tambien por que cuenta con turbo de 4,30 Ghz en todos los nucleos para los programas que usen el poder de varios núcleos, en el caso de pasar a ver la imagen o proyecto ya renderizado no se quede atras en cuanto a tiempo de trabajo y para la carga de mas imagenes en caso que sean mas en un solo, proyecto.
  
  ## Tarjeta de video:
  
-Se escogio la GeForce RTX 3060 Ti para que no se quedara atras con respecto al cpu y no causara un cuello de botella a la hora de usar el gpu para proyectos que lo requieran cuando se hace un cambio de la imagen 3d al animado 3d redering con el viewport del blender se usa exclusivamente el gpu en este modo al cpu no contar con chip de video integrado tener la tarjeta se hace una buena opcion en tiempo, con los 8 Gb de vram y el boost clock de 1,67 Ghz. 
+Se escogio la GeForce RTX 3080  para que no se quedara atras con respecto al cpu y no causara un cuello de botella a la hora de usar el gpu para proyectos que lo requieran cuando se hace un cambio de la imagen 3d al animado 3d redering con el viewport del blender se usa exclusivamente el gpu en este modo al cpu no contar con chip de video integrado tener la tarjeta se hace una buena opcion en tiempo, con los 10 Gb de vram.
  
  ## Motherboard:
  
-Se escogio la Asus Prime TRX40-Pro ATX sTRX4 Motherboard, por contar con el socket strx4 que es el que usa el cpu, asi como poseer, 8 slots de memoria para la ram y ser compatible con DDR4 a velocidades de 2133 a 4666, tambien posee slot de tipo M.2, para ssd tipo nvme, varios puertos Pci para en caso de tener varios gpu puedan ponerlas y trabajar en conjuto y poseer un diseño que mejora la temperatura en la placa y el equipo al contar con un diseño que permite combatir las altas temperaturas de los componenetes y varios pads termicos muy bueno, asi como modulos de regulador de corriente que estan pensado exclusivamente en Amd y la threadripper.
+Se escogio la Motherboard, por contar con el socket LGA1700 que es el que usa el cpu, asi como poseer, 4 slots de memoria para la ram y ser compatible con DDR4 a velocidades de 2133 a 5333, tambien posee slot de tipo M.2, para ssd tipo nvme, asi como ser de tamaño atx perfecto para poner varios componenetes dependiendo del tamaño, posee una tarjeta de wifi en caso de instalarla lejos de una conexion ethernet pero tambien posee una.
  
  ## Ram:
 
-Se escogio  un kit de 2x32GB Mushkin Silverline, poseen un disipador de calor para ayudar a combatir las temperaturas, asi como estar en una buena velocidad de 3200 para una buena transferencia de datos, la ram se usa en los programas como blender para cargar la informacion de nuestros modelos 3d y mientras mas detallado sea el modelo o mas partes tenga mas ram es mejor, en este caso con 64Gb nos da una ventaja a la hora de hacer modelos mas detallados y de alta resolucion, tambien por que la ram se usa en beneficio del cpu por que este trabaja bien con ram de alto rendimiento del reloj y la latencia en este caso de 22 Cs, trabajando bien los dos componentes para sacar mejor provecho.
+Se escogio  un kit de 2x32GB G.Skill Ripjaws V 32 GB, poseen un disipador de calor para ayudar a combatir las temperaturas, asi como estar en una buena velocidad de 3600 para una buena transferencia de datos, la ram se usa en los programas como blender para cargar la informacion de nuestros modelos 3d y mientras mas detallado sea el modelo o mas partes tenga mas ram es mejor, en este caso con 32Gb nos da una ventaja a la hora de hacer modelos mas detallados y de alta resolucion, tambien por que la ram se usa en beneficio del cpu por que este trabaja bien con ram de alto rendimiento del reloj y la latencia en este caso de 16 Cs, trabajando bien los dos componentes para sacar mejor provecho.
  
  ## Almacenamiento:
  
@@ -101,11 +105,10 @@ Aerocool Bolt ATX Mid Tower Case fue escogido por su tamaño es una mid tower no
  
  ## Bibliografía:
  - [https://www.profesionalreview.com/2022/02/20/blender-que-es-y-para-que-se-utiliza/]
- - []
- - []
- - []
- - []
- - []
+ - [https://www.profesionalreview.com/2022/10/20/intel-core-i9-13900k-review/]
+ - [https://www.profesionalreview.com/2020/09/16/nvidia-rtx-3080-review/]
+ - [https://ebac.mx/blog/que-es-el-modelado-3d]
+ 
  
     
     
