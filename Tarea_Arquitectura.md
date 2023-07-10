@@ -5,18 +5,19 @@
  - Jorman Solórzano [Github](https://github.com/Jasl00)
  - Jonathan Jaramillo [Github](https://github.com/jonathan-092)
  
- # Construcion de computador para modelado y animacion 3D
+ # Construcion de computador para modelado 3D
  
  # Introduccion 
  
- ¿Que es el modelado y animacion en 3d?
+ ¿Que es el modelado en 3d?
  
- El modelado en 3d de manera simple. Es un proceso que se utiliza para generar objetos en 3d y la animacion es el proceso de colocar objetos y personajes en un espacio 3d para manipularlos y crear la ilusión de movimiento.
- Estos dos van de la mano por que primero se modela antes de poder animar algo si se quiere, y con el tiempo han ido ganando espacio en varios aspectos en nuestra vida no solo en peliculas y videojuegos sino tambien en la medicina, la arquitectura, etc.
+ El modelado en 3d de manera simple. Es un proceso que se utiliza para generar objetos en 3d mediante un software, este objeto imagen en 3d, gracias a algoritmos matematicos que genera una representacion especifica, lo que es perfecto para dibujar formas con precision haciendo de un diseño mas interactivo y preciso a la hora de modificar y ver errores en diseño.
+
+ El modelado funciona trabajando en el software, se crea un objeto geometrico base, que sirve como punto de partida para generar diferentes formas o agregarlas, una vez terminado puedes generar imagenes en 2d de alta calidad renderizandolo. 
  
  ## Propuesta 
  
- En este caso se procede a armar un equipo que sea capaz de trabajar de manera optima con animacion y modelado en 3d con el software blender, para la realizacion de imagenes 3d, en base a modelos 2d, con modelacion de 3d solidos para la creacion de un nuevo tipo de herramientas para las reparaciones del hogar
+ En este caso se procede a armar un equipo que sea capaz de trabajar de manera optima con animacion y modelado en 3d con el software blender, para la realizacion de imagenes 3d, en base a modelos 2d, con modelacion de 3d solidos para la creacion de un nuevo tipo de herramientas para las reparaciones del hogar.
  
  -Blender:
  
@@ -24,12 +25,12 @@
  
  ## Componentes del equipo a usar
  
- -Presupuesto:3000 $ US
- -Costo final del equipo: 2999.21$ US
+ -Presupuesto:2500 $ US
+ -Costo final del equipo: 2500.39$ US
  
  ## cpu:
  
- AMD Threadripper 3960X 3.8 GHz 24-Core Processor [Cpu](https://www.newegg.com/amd-ryzen-threadripper-3960x/p/N82E16819113619?Description=amd%20threadripper%203960x&cm_re=amd_threadripper%203960x-_-19-113-619-_-Product)
+ Intel Core i9-13900K 3 GHz 24-Core Processor [Cpu](https://www.newegg.com/amd-ryzen-threadripper-3960x/p/N82E16819113619?Description=amd%20threadripper%203960x&cm_re=amd_threadripper%203960x-_-19-113-619-_-Product)
  precio:$1486.80
  
  ## Cpu cooler:
@@ -100,11 +101,11 @@ Aerocool Bolt ATX Mid Tower Case fue escogido por su tamaño es una mid tower no
  
  ## Bibliografía:
  - [https://www.profesionalreview.com/2022/02/20/blender-que-es-y-para-que-se-utiliza/]
- - [https://www.pcmag.com/reviews/amd-ryzen-threadripper-3960x]
- - [https://www.pcmag.com/reviews/nvidia-geforce-rtx-3060-ti-founders-edition]
- - [https://www.pugetsystems.com/labs/articles/gpu-rendering-nvidia-geforce-rtx-3060-ti-performance-2022/]
- - [https://cpu-benchmark.org/cpu/amd-ryzen-threadripper-3960x/]
- - [https://www.tomshardware.com/reviews/samsung-980-pro-m-2-nvme-ssd-review]
+ - []
+ - []
+ - []
+ - []
+ - []
  
     
     
