@@ -17,11 +17,11 @@
  
  ## Propuesta 
  
- En este caso se procede a armar un equipo que sea capaz de trabajar de manera optima con animacion y modelado en 3d con el software blender, para la realizacion de imagenes 3d, en base a modelos 2d, con modelacion de 3d solidos para la creacion de un nuevo tipo de herramientas para las reparaciones del hogar.
+ En este caso se procede a armar un equipo que sea capaz de trabajar de manera optima con animacion y modelado en 3d con el software autodesk inventor, para la realizacion de prototipos de herramientas, maquinas, etc, para comprobar su modelo y funcionamiento de las herramientas.
  
- -Blender:
- 
- Blender es una herramienta que permite usarla en varias plataforma y va orientada a profesionales, estudiantes o interesados, en la animacion, modelado y creacion de videos en 3d y alta calidad.
+ -Inventor:
+   el software CAD 3D, ofrece herramientas profesionales para el diseño mecánico, la elaboración de documentación y la simulación de productos.  
+
  
  ## Componentes del equipo a usar
  
@@ -67,7 +67,7 @@
  ## Por que de la seleccion de componentes:
  
  ## Cpu: 
-Se escogio el procesador  intel core i9-13900k con 24 nucleos por su turbo de 5,80 Ghz cuando se usa un solo núcleo, por que el blender en este caso de modelado 3d usa el poder de un solo núcleo para renderizar las proyectos agilizando el tiempo de espera para terminar el proyecto, tambien por que cuenta con turbo de 4,30 Ghz en todos los nucleos para los programas que usen el poder de varios núcleos, en el caso de pasar a ver la imagen o proyecto ya renderizado no se quede atras en cuanto a tiempo de trabajo y para la carga de mas imagenes en caso que sean mas en un solo, proyecto.
+Se escogio el procesador  intel core i9-13900k con 24 nucleos por su turbo de 5,80 Ghz cuando se usa un solo núcleo, por que el  modelado 3d usa el poder de un solo núcleo para renderizar las proyectos agilizando el tiempo de espera para terminar el proyecto, tambien por que cuenta con turbo de 4,30 Ghz en todos los nucleos para los programas que usen el poder de varios núcleos, en el caso de pasar a ver la imagen o proyecto ya renderizado no se quede atras en cuanto a tiempo de trabajo y para la carga de mas imagenes en caso que sean mas en un solo, proyecto.
  
  ## Tarjeta de video:
  
@@ -79,7 +79,7 @@ Se escogio la Motherboard, por contar con el socket LGA1700 que es el que usa el
  
  ## Ram:
 
-Se escogio  un kit de 2x32GB G.Skill Ripjaws V 32 GB, poseen un disipador de calor para ayudar a combatir las temperaturas, asi como estar en una buena velocidad de 3600 para una buena transferencia de datos, la ram se usa en los programas como blender para cargar la informacion de nuestros modelos 3d y mientras mas detallado sea el modelo o mas partes tenga mas ram es mejor, en este caso con 32Gb nos da una ventaja a la hora de hacer modelos mas detallados y de alta resolucion, tambien por que la ram se usa en beneficio del cpu por que este trabaja bien con ram de alto rendimiento del reloj y la latencia en este caso de 16 Cs, trabajando bien los dos componentes para sacar mejor provecho.
+Se escogio  un kit de 2x32GB G.Skill Ripjaws V 32 GB, poseen un disipador de calor para ayudar a combatir las temperaturas, asi como estar en una buena velocidad de 3600 para una buena transferencia de datos, la ram se usa en los programas para cargar la informacion de nuestros modelos 3d y mientras mas detallado sea el modelo o mas partes tenga mas ram es mejor, en este caso con 32Gb nos da una ventaja a la hora de hacer modelos mas detallados y de alta resolucion, tambien por que la ram se usa en beneficio del cpu por que este trabaja bien con ram de alto rendimiento del reloj y la latencia en este caso de 16 Cs, trabajando bien los dos componentes para sacar mejor provecho.
  
  ## Almacenamiento:
  
@@ -104,6 +104,7 @@ Aerocool Bolt ATX Mid Tower Case fue escogido por su tamaño es una mid tower no
  - [https://www.profesionalreview.com/2022/10/20/intel-core-i9-13900k-review/]
  - [https://www.profesionalreview.com/2020/09/16/nvidia-rtx-3080-review/]
  - [https://ebac.mx/blog/que-es-el-modelado-3d]
+ - [https://www.autodesk.es/products/inventor/overview?term=1-YEAR&tab=subscription&plc=INVPROSA]
  
  
     
