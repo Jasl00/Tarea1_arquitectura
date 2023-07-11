@@ -66,7 +66,7 @@
 
  ## Pasta termica:
  Corsair XTM50 5 g Thermal Paste:[pasta](https://www.amazon.com/dp/B07V3GTMCS?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
-    
+ precio:$14.99   
  ## Por que de la seleccion de componentes:
  
  ## Cpu: 
