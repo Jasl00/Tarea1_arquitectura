@@ -26,7 +26,7 @@
  ## Componentes del equipo a usar
  
  -Presupuesto:2500 $ US
- -Costo final del equipo: 2500.39$ US
+ -Costo final del equipo: 2499.98$ US
  
  ## cpu:
  
@@ -59,10 +59,6 @@
  ##  Power supply:
    Corsair RM850e 850 W 80+ Gold Certified Fully Modular ATX Power Supply [ps](https://www.newegg.com/corsair-rme-series-rm850e-850-w/p/N82E16817139301?Item=N82E16817139301&nm_mc=AFC-RAN-COM&cm_mmc=afc-ran-com-_-PCPartPicker&utm_medium=affiliate&utm_campaign=afc-ran-com-_-PCPartPicker&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-rPlq4mQiUjzxxEmTSE4SwQ)
    precio:$114.99
-
- ## Pasta termica:
-  ARCTIC MX-4 20 g Thermal Paste [Pasta](https://www.amazon.com/dp/B07LDJY4X2?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
-  precio:$11.95
   
  ##  Case:
  Aerocool Bolt ATX Mid Tower Case [case](https://www.amazon.com/dp/B07SW2285W?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
