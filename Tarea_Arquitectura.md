@@ -26,7 +26,7 @@
  ## Componentes del equipo a usar
  
  -Presupuesto:2500 $ US
- -Costo final del equipo: 2499.98$ US
+ -Costo final del equipo: 2498.09$ US
  
  ## cpu:
  
@@ -38,12 +38,12 @@
   precio:$119.99
   
  ##  Motherboard:
-  MSI PRO B760-P WIFI DDR4 ATX LGA1700 Motherboard [motherboard](https://www.amazon.com/dp/B0BRQSWSFQ?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
-  precio:$160.00
+  Gigabyte B760 DS3H AC DDR4 ATX LGA1700 Motherboard [motherboard](https://pcpartpicker.com/mr/newegg/Kc6p99)
+  precio:$119.99
   
  ##  Memory ram:
-  G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory [ram](https://www.amazon.com/dp/B07Z45XB3G?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
-  precio:$86.99
+  Mushkin Enhanced Redline Stiletto 64 GB (2 x 32 GB) DDR4-3600 CL18 Memory [ram](https://pcpartpicker.com/mr/newegg/Xpt9TW)
+  precio:$104.99
     
  ##  Storage:
   Ssd de 2 TB [ssd](https://www.amazon.com/dp/B08GLX7TNT?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
@@ -63,6 +63,9 @@
  ##  Case:
  Aerocool Bolt ATX Mid Tower Case [case](https://www.amazon.com/dp/B07SW2285W?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
  precio:$50.99
+
+ ## Pasta termica:
+ Corsair XTM50 5 g Thermal Paste:[pasta](https://www.amazon.com/dp/B07V3GTMCS?tag=pcpapi-20&linkCode=ogi&th=1&psc=1)
     
  ## Por que de la seleccion de componentes:
  
@@ -75,11 +78,11 @@ Se escogio la GeForce RTX 3080  para que no se quedara atras con respecto al cpu
  
  ## Motherboard:
  
-Se escogio la Motherboard, por contar con el socket LGA1700 que es el que usa el cpu, asi como poseer, 4 slots de memoria para la ram y ser compatible con DDR4 a velocidades de 2133 a 5333, tambien posee slot de tipo M.2, para ssd tipo nvme, asi como ser de tamaño atx perfecto para poner varios componenetes dependiendo del tamaño, posee una tarjeta de wifi en caso de instalarla lejos de una conexion ethernet pero tambien posee una.
+Se escogio la Motherboard, por contar con el socket LGA1700 que es el que usa el cpu, asi como poseer, 4 slots de memoria para la ram y ser compatible con DDR4 a velocidades de 2133 a 5333, tambien posee slot de tipo M.2, para ssd tipo nvme, asi como ser de tamaño atx perfecto para poner varios componenetes dependiendo del tamaño.
  
  ## Ram:
 
-Se escogio  un kit de 2x32GB G.Skill Ripjaws V 32 GB, poseen un disipador de calor para ayudar a combatir las temperaturas, asi como estar en una buena velocidad de 3600 para una buena transferencia de datos, la ram se usa en los programas para cargar la informacion de nuestros modelos 3d y mientras mas detallado sea el modelo o mas partes tenga mas ram es mejor, en este caso con 32Gb nos da una ventaja a la hora de hacer modelos mas detallados y de alta resolucion, tambien por que la ram se usa en beneficio del cpu por que este trabaja bien con ram de alto rendimiento del reloj y la latencia en este caso de 16 Cs, trabajando bien los dos componentes para sacar mejor provecho.
+Se escogio  un kit de 2x32GB Mushkin Enhanced Redline Stiletto 64 GB , poseen un disipador de calor para ayudar a combatir las temperaturas, asi como estar en una buena velocidad de 3600 para una buena transferencia de datos, la ram se usa en los programas para cargar la informacion de nuestros modelos 3d y mientras mas detallado sea el modelo o mas partes tenga mas ram es mejor, en este caso con 32Gb nos da una ventaja a la hora de hacer modelos mas detallados y de alta resolucion, tambien por que la ram se usa en beneficio del cpu por que este trabaja bien con ram de alto rendimiento del reloj y la latencia en este caso de 18 Cs y 10 ns para una mejor trasnferencia de datos, trabajando bien los dos componentes para sacar mejor provecho.
  
  ## Almacenamiento:
  
@@ -96,7 +99,9 @@ ID-COOLING AURAFLOW X 74.5 CFM Liquid CPU Cooler fue escogido al ser compatible 
  ## Case:
  
 Aerocool Bolt ATX Mid Tower Case fue escogido por su tamaño es una mid tower no muy grande, pero tiene el espacio perfecto para la placa que es Atx y el resto de componentes y no queden apretadas o sea de dificil acceso a la hora de un mantenimiento, cuenta con una panel lateral para ver sus componentes y rgb para iluminar cuartos oscuros. 
- 
+
+ ##Pasta termica:
+ Para el cpu en caso de que necesite un cambio de pasta.
  
  
  ## Bibliografía:
